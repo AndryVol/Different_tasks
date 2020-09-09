@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[43]:
-
-
 import sys
 import torch
 import pandas as pd
