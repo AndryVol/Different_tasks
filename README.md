@@ -12,9 +12,9 @@
 Для работы скрипта необходимо:  
 - модель обученной нейросети *model* положить в одну папку с *detrmine_folder.py*
 - установленные библиотеки:
-⋅⋅⋅- torch
-⋅⋅⋅- pandas
-⋅⋅⋅- sas
-⋅⋅⋅- numpy
-⋅⋅⋅- os
-⋅⋅⋅- json
+    - torch
+    - pandas
+    - sas
+    - numpy
+    - os
+    - json
